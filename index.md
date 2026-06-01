@@ -1,4 +1,3 @@
-## Welcome to my professional portfolio!
 **Gabriel Tramontin | Vendor Consulting Architect at TD SYNNEX | GitHub & Microsoft Solutions**
 
 ### About Me:
